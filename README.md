@@ -1,3 +1,8 @@
+### I take no credit in creative ideas on this project. Was meant for learning experience only. Thank you! ###
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
